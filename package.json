@@ -1,0 +1,14 @@
+{
+  "name": "jsonpractice",
+  "version": "1.0.0",
+  "description": "practicing json",
+  "main": "fsReadWrite.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "openai": "^4.33.0"
+  },
+  "author": "",
+  "license": "ISC"
+}

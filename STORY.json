@@ -1,0 +1,31 @@
+{
+  "storyOutput": {
+    "text": "",
+    "title": "",
+    "statistics": {
+      "cost": "",
+      "generationTime": ""
+    }
+  },
+  "storyInputs": {
+    "age": "",
+    "type": "",
+    "subtype": "",
+    "characters": ["Brenda"],
+    "objects": "",
+    "location": ""
+  },
+  "illustrationInputs": {
+    "style": ""
+  },
+  "model": {
+    "name": "",
+    "temperature": 1,
+    "maxTokens": 1,
+    "top_p": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "createdAt": "",
+  "id": ""
+}

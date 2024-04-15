@@ -1,0 +1,37 @@
+{
+  "storyOutput": {
+    "text": "",
+    "title": "",
+    "statistics": {
+      "tokens": {
+        "prompt_tokens": "",
+        "completion_tokens": "",
+        "total_tokens": ""
+      },
+      "generationTime": ""
+    }
+  },
+  "storyInputs": {
+    "age": "6",
+    "type": "Makes you laugh",
+    "subtype": "A story full of silly sounds, made up words… like The Book with No Pictures.",
+    "characters": [
+      "Brenda"
+    ],
+    "objects": "banana",
+    "location": "a playground"
+  },
+  "illustrationInputs": {
+    "style": ""
+  },
+  "model": {
+    "name": "gpt-3.5-turbo",
+    "temperature": 1,
+    "maxTokens": 500,
+    "top_p": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "createdAt": "",
+  "id": ""
+}
