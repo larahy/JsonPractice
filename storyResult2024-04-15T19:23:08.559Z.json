@@ -1,0 +1,31 @@
+{
+  "storyOutputs": {
+    "text": "Once upon a time, at a playground not so far away, there was a girl named Brenda who loved to play. One sunny day, as Brenda slid down the slide, she discovered a banana by her side. But this was no ordinary banana, oh no! This banana could talk and sing and do a funky disco show! Its name was Bongo the Banana, and he loved to boogie woogie all day long. Brenda and Bongo became fast friends, laughing and dancing to their favorite silly song. The other children at the playground were amazed to see Brenda with a talking banana, but they soon joined in the fun, dancing and giggling like there was no tomorrow. And so, the playground turned into a Banana Bonanza, with Brenda and Bongo leading the way. The laughter echoed through the slides and swings, as Brenda and her banana danced in rings. And from then on, whenever Brenda went to play, she always brought Bongo along for a merry day! The end...or is it just the beginning of more banana-tastic adventures?",
+    "title": "Brenda and the Banana Bonanza",
+    "cost": 0.00034500000000000004,
+    "generationTime": ""
+  },
+  "storyInputs": {
+    "age": "6",
+    "type": "Makes you laugh",
+    "subtype": "A story full of silly sounds, made up words… like The Book with No Pictures.",
+    "characters": [
+      "Brenda"
+    ],
+    "objects": "banana",
+    "location": "a playground"
+  },
+  "illustrationInputs": {
+    "style": ""
+  },
+  "model": {
+    "name": "gpt-3.5-turbo",
+    "temperature": 1,
+    "maxTokens": 500,
+    "top_p": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "createdAt": "2024-04-15T19:23:08.561Z",
+  "id": ""
+}

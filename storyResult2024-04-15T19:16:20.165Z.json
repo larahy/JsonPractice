@@ -1,0 +1,31 @@
+{
+  "storyOutputs": {
+    "text": "Once upon a zim-zam-zoom at the playground, Brenda found a banana that went 'Boopity-Boop' when she touched it! She was so flummoxed that she yelled, 'Flibberty-Flabbergast!' and started dancing a wiggle-woggle dance around the swing set. The banana, being a mischievous fruit, began to sing a joyful 'Banana-Bop' song that made all the slides slide away and the seesaws seesaw on their own. Brenda giggled and snorted, 'Gobbledy-Goo!' as she chased the banana around the monkey bars, shouting 'Gloopity-Gloop.' The other kids at the playground joined in the wacky fun, making up their own silly sounds like 'Squibble-Squabble' and 'Snozzly-Snazzle.' The banana, feeling like a bananarama star, twirled and spun faster and faster until it turned into a puddle of banana mush with a final 'Zippity-Zap!' Everyone burst into a fit of laughter, rolling on the ground and snickering 'Noodle-Noodle' and 'Doodle-Doodle.' And that's how Brenda and the banana created the most baffling, boisterous, and banana-filled bonanza the playground had ever seen! The end... Or is it just the beginning of more zany adventures with Brenda and her fruity friend? 'Bingle-Bangle-Boo!'",
+    "title": "Brenda and the Baffling Banana Bonanza",
+    "cost": 0.00044100000000000004,
+    "generationTime": ""
+  },
+  "storyInputs": {
+    "age": "6",
+    "type": "Makes you laugh",
+    "subtype": "A story full of silly sounds, made up words… like The Book with No Pictures.",
+    "characters": [
+      "Brenda"
+    ],
+    "objects": "banana",
+    "location": "a playground"
+  },
+  "illustrationInputs": {
+    "style": ""
+  },
+  "model": {
+    "name": "gpt-3.5-turbo",
+    "temperature": 1,
+    "maxTokens": 500,
+    "top_p": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "createdAt": "2024-04-15T19:16:20.168Z",
+  "id": ""
+}

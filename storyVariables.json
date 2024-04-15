@@ -1,15 +1,9 @@
 {
-  "storyOutput": {
+  "storyOutputs": {
     "text": "",
     "title": "",
-    "statistics": {
-      "tokens": {
-        "prompt_tokens": "",
-        "completion_tokens": "",
-        "total_tokens": ""
-      },
-      "generationTime": ""
-    }
+    "cost": "",
+    "generationTime": ""
   },
   "storyInputs": {
     "age": "6",
