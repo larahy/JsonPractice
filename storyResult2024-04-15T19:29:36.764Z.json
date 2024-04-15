@@ -1,0 +1,31 @@
+{
+  "storyOutputs": {
+    "text": "In a playground bright and grand,\nWhere kids would run and skip and stand,\nThere lived a fisherman so bold,\nWhose story needs to be told.\n\nOne day while fishing on the slide,\nHe saw something quite odd outside,\nA big red bus came rolling near,\nWith kids aboard and the driver dear.\n\nThe fisherman dropped his fishing line,\nAnd watched the bus with eyes that shine,\nHe knew right then he had to try,\nFor a ride on that bus so high.\n\nHe ran and hopped onto the bus,\nWith a fish held tight, causing a fuss,\nThe driver laughed and gave a cheer,\nAs they drove around, far and near.\n\nThe kids all giggled at the sight,\nOf a fisherman on a bus so bright,\nThey raced and played and had such fun,\nUnderneath the shining sun.\n\nAnd as the day came to an end,\nThe fisherman waved to his new friends,\nHe thanked the driver with a grin,\nFor a day of laughter, joy within.\n\nSo remember this tale so merry,\nOf the fisherman on a bus, so very,\nIn the playground, where laughter flows,\nAnd silliness, like a river, grows.",
+    "title": "The Fisherman and the Red Bus at the Playground",
+    "cost": 0.0004070000000000001,
+    "generationTime": ""
+  },
+  "storyInputs": {
+    "age": "6",
+    "type": "Makes you laugh",
+    "subtype": "Rhyming story; silly, fun, julia donaldson, each peach pear plum",
+    "characters": [
+      "Fisherman"
+    ],
+    "objects": "red bus",
+    "location": "a playground"
+  },
+  "illustrationInputs": {
+    "style": ""
+  },
+  "model": {
+    "name": "gpt-3.5-turbo",
+    "temperature": 1,
+    "maxTokens": 500,
+    "top_p": 1,
+    "frequencyPenalty": 0,
+    "presencePenalty": 0
+  },
+  "createdAt": "2024-04-15T19:29:36.766Z",
+  "id": ""
+}
